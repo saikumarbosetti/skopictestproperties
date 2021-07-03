@@ -1,0 +1,2 @@
+# skopictestproperties
+for practicing
